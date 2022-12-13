@@ -1,8 +1,11 @@
 body {
   background-image: url("Images/HCC Hero.png");
-  background-position: none;
-  background-position: cover;
+  height: 100%;
+  background-position: center;
+  background-repeat: none;
+  background-size: cover;
 }
+
 .nav {
   float: left;
   padding: 20px 40px;
