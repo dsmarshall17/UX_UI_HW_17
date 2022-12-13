@@ -1,6 +1,6 @@
 body, html {
   height: 100%;
-  }
+}
 
 body {
   background-image: linear-gradient(to bottom,rgba(18, 18, 18, 1), rgba(0, 0, 0, 0)), url("Images/HCC Hero.png");
@@ -8,10 +8,7 @@ body {
   background-position: center;
   background-repeat: none;
   background-size: cover;
-  }
-
-  * {box-sizing: border-box;
-  }
+}
 
 .hero-image {
   height: 50%;
@@ -19,8 +16,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
-  filter: blur(8px);
-  -webkit-filter: blur(8px);
+  box-sizing: content-box;
 }
 
 .hero-text {
@@ -39,10 +35,9 @@ body {
 
 nav {
   display: flex;
-  flex-wrap:wrap;
-    }
+}
 nav a {
-  display: block; 
+  display:inline-block; 
   width: 100%;
   padding: 25px 50px 75px 100px 125px;
   text-decoration: none;
