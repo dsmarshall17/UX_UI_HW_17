@@ -2,7 +2,7 @@ body, html {
   height: 100%;
 }
 
-.background image {
+.bg {
   background-image: url("Images/HCC Hero.png");
   height: 100%;
   background-position: center;
@@ -20,7 +20,7 @@ body, html {
 }
 
 .hero-text {
-  text-align: center;
+  text-align: left;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -30,14 +30,13 @@ body, html {
 
 .nav {
   width: 100%;
-   overflow: auto;
-  float: left;
-  padding: 25px 50px 75px 100px 125px;
+  padding: 25px;
   text-decoration: none;
   font-size: 18px;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  align-content: stretch;
+ justify-items: left;
 }
+
 .header {
-  justify-content:end;
+  justify-items: right;
 }
