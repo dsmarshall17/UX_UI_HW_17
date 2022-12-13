@@ -3,11 +3,13 @@ body, html {
 }
 
 header {
-  display: inline-block;
+  display: flex;
   border: none; 
   padding: 8px;
   width: 16%;
   margin: 24px;
+  position: absolute;
+  float: right;
 }
 
 body {
