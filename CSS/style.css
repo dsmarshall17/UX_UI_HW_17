@@ -5,9 +5,9 @@ body, html {
 header {
   display: inline-block;
   border: none; 
-  padding: 6px;
-  width: 10%;
-  margin: 8px;
+  padding: 8px;
+  width: 16%;
+  margin: 24px;
 }
 
 body {
@@ -24,9 +24,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
-  box-sizing: content-box;
-  border: #ffffff;
-}
+  }
 
 .hero-text {
   text-align: left;
