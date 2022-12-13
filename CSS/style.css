@@ -1,0 +1,13 @@
+body {
+  background-image: url("Images/HCC Hero.png");
+  color: #080808;
+}
+.nav {
+  float: left;
+  padding: 20px 40px;
+  text-decoration: none;
+  font-size: 18px;
+}
+.header {
+  justify-content: right;
+}
