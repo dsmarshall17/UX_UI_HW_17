@@ -24,7 +24,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
-  }
+}
 
 .hero-text {
   text-align: left;
@@ -55,29 +55,27 @@ nav a {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-.button1 a {
+.button1 {
   background-color: #ffffff; 
   border: #ffffff;
-  padding: 10px 24px;
+  padding: 20px 32 px;
   text-align: center;
   text-decoration: none;
-  display: inline-block;
   font-size: 18px;
-  width: 200px;
+  width: 50%;
   margin: 4px 6px;
   }
 
-.button2 a {
+.button2 {
   background-color: #ffffff; 
   border:#ffffff;
-  padding: 14px 40px;
+  padding: 24px 40px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   font-size: 18px;
-  color: #000000;
-  width: 25%;
+  color: #ffffff;
+  width: 75%;
   opacity: 0.6;
   transition: 0.3s;
-  display: inline-block;
 }
