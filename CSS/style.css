@@ -65,9 +65,9 @@ nav a {
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 72px;
+  font: size 250px;
   color: #ffffff;
-  width:250px;
+  width: 500px;
   opacity: 0.6;
   transition: 0.3s;
 }
