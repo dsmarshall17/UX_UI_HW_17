@@ -4,7 +4,6 @@ body, html {
 
 header {
   display: flex;
-  display:inline-block; 
   border: none; 
   padding: 8px;
   width: 50%;
@@ -52,10 +51,10 @@ nav {
 }
 nav a {
   display:inline-block; 
-  width: 25%;
+  width: 10%;
   padding: 15px;
   text-decoration: none;
-  text-align: left;
+  text-align: lcenter;
   margin: 0;
   font-size: 18px;
   color: white;
