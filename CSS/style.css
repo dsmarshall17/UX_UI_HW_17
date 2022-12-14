@@ -7,16 +7,24 @@ body, html {
   text-align: right;
   font-size: 30px;
 }
+
 body {
-  background-image: url("Images\HCC Logo.png");
-  background-color: #000000;
-  height: 500px;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;
+    background-image: url("Images\HCC Hero.png");
+     border: 2px solid black;
+ }
+  
+div.transbox {
+    margin: 30px;
+    background-color: #ffffff;
+    opacity: 0.6;
+ }
+  
+  div.transbox p {
+    margin: 5%;
+    font-weight: bold;
+    color: #000000;
   }
-   
+
 .hero-text {
   text-align: left;
   position: absolute;
