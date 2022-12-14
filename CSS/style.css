@@ -10,7 +10,7 @@ body, html {
 
 body {
     background-image: url("Images\HCC Hero.png");
-     border: 2px solid black;
+    background-color: #000000;
  }
   
 div.transbox {
@@ -19,7 +19,7 @@ div.transbox {
     opacity: 0.6;
  }
   
-  div.transbox p {
+div.transbox p {
     margin: 5%;
     font-weight: bold;
     color: #000000;
