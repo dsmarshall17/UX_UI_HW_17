@@ -4,17 +4,11 @@ body, html {
 
 header {
   display: flex;
-  border: none; 
-  padding: 8px;
-  width: 50%;
-  margin: 24px;
   position: absolute;
-  justify-content: left;
+  justify-content: right;
 }
 
 body {
-  background-image: url();
-  background-repeat: none;
   background-color: #000000;
   height: 500px;
   background-position: center;
