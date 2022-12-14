@@ -21,8 +21,8 @@ body {
 }
 
 .container {
-  position: relative;
   text-align: left;
+  position: absolute;
   top: 75%;
   left: 50%;
   transform: translate(-50%, -50%);
