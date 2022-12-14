@@ -10,25 +10,19 @@ header {
   margin: 24px;
   position: absolute;
   float: right;
+
 }
-body {
+.bg-image {
   background-image: url("Images\HCC Hero.png");
-  background-repeat: no-repeat;
+  background-repeat: none;
   background-color: #000000;
-  height: 100%;
+  height: 500px;
   background-position: center;
-  background-repeat: none;
+  background-repeat: no-repeat;
   background-size: cover;
-}
-
-body {
-  background-image: linear-gradient(to bottom,rgba(18, 18, 18, 1), rgba(0, 0, 0, 0));
-  height: 100%;
-  background-position: center;
-  background-repeat: none;
-  background-size: cover;
-}
-
+  position: relative;
+  }
+   
 .hero-text {
   text-align: left;
   position: absolute;
