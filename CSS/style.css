@@ -12,8 +12,9 @@ header {
   float: right;
 
 }
-.bg-image {
-  background-image: url("Images\HCC Hero.png");
+
+body {
+  background-image: url("Images/HCC Hero.png");
   background-repeat: none;
   background-color: #000000;
   height: 500px;
