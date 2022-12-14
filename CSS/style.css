@@ -16,6 +16,7 @@ header {
 body {
   background-image: url("Images/HCC Hero.png");
   background-repeat: none;
+  background-color: #000000;
   height: 500px;
   background-position: center;
   background-repeat: no-repeat;
@@ -24,8 +25,8 @@ body {
   }
    
 .hero-image {
-  background-image: url("photographer.jpg");
-  background-color: #cccccc; 
+  background-image: url("Images/HCC Hero.png");
+  background-color: #000000; 
   height: 500px;
   background-position: center; 
   background-repeat: no-repeat;
