@@ -11,9 +11,18 @@ header {
   position: absolute;
   float: right;
 }
+body {
+  background-image: url("Images\HCC Hero.png");
+  background-repeat: no-repeat;
+  background-color: #000000;
+  height: 100%;
+  background-position: center;
+  background-repeat: none;
+  background-size: cover;
+}
 
 body {
-  background-image: linear-gradient(to bottom,rgba(18, 18, 18, 1), rgba(0, 0, 0, 0)), url("images/hero.png");
+  background-image: linear-gradient(to bottom,rgba(18, 18, 18, 1), rgba(0, 0, 0, 0));
   height: 100%;
   background-position: center;
   background-repeat: none;
