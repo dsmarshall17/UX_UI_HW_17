@@ -20,7 +20,7 @@ body {
   position: relative; 
 }
 
-.hero-text {
+.textblock {
   text-align: left;
   position: absolute;
   top: 50%;
