@@ -57,6 +57,8 @@ nav a {
 }
 
 .footer a {
+  padding: 10px;
+  text-align: left;
   font-size: 18px;
   color: white;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
