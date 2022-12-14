@@ -12,9 +12,13 @@ header {
   float: right;
 
 }
- 
+body {
+  background: url(sweettexture.jpg);
+}
+  
 .hero-image {
   background-image: url("Images\HCC Hero.png");
+  background-color: #000000; 
   height: 500px;
   background-position: center; 
   background-repeat: no-repeat;
