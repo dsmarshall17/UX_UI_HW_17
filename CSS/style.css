@@ -49,7 +49,7 @@ body {
 nav {
   display: flex;
 }
-nav {
+nav a {
   display:inline-block; 
   width: 5%;
   padding: 32px;
@@ -86,7 +86,7 @@ nav {
   transition: 0.3s;
 }
 
-.footer {
+.footer a {
   font-size: 18px;
   color: white;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
