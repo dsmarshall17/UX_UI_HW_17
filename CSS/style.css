@@ -39,7 +39,7 @@ nav {
 }
 nav a {
   display:inline-block; 
-  width: 100%;
+  width: 50%;
   padding: 15px;
   text-decoration: none;
   text-align: left;
