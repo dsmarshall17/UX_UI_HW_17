@@ -9,7 +9,7 @@ header {
   width: 50%;
   margin: 24px;
   position: absolute;
-  float: right;
+  justify-content: left;
 }
 
 body {
