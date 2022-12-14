@@ -23,15 +23,15 @@ body {
 .hero-text {
   text-align: left;
   position: absolute;
-  top: 50%;
+  top: 75%;
   left: 50%;
   transform: translate(-50%, -50%);
   color: white;
-  font: size 50px;
+  font-size: x-large;
   font-weight: bold;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   padding: 25%;
-  width: 100px;
+  width: 75%;
 }
 
 nav {
