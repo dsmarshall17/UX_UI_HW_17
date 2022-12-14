@@ -13,7 +13,7 @@ header {
 }
 
 body {
-  background-image: url("")
+  background-image: url();
   background-repeat: none;
   background-color: #000000;
   height: 500px;
@@ -24,7 +24,7 @@ body {
   }
    
 .hero-image {
-  background-image: url("");
+  background-image: url("Images\HCC Hero.png");
   background-color: #000000; 
   height: 500px;
   background-position: center; 
@@ -51,10 +51,10 @@ nav {
 }
 nav a {
   display:inline-block; 
-  width: 10%;
-  padding: 15px;
+  width: 5%;
+  padding: 32px;
   text-decoration: none;
-  text-align: lcenter;
+  text-align: center;
   margin: 0;
   font-size: 18px;
   color: white;
