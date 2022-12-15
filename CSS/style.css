@@ -16,7 +16,7 @@ nav {
   display: flex;
 }
 
-nav a {
+nav {
   display:inline-block; 
   width: 12%;
   padding: 0px;
