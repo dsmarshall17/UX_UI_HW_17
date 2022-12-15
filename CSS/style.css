@@ -12,20 +12,6 @@ background-color: #000000
   font-size: 30px;
   }
 
-.hero-text {
-  text-align: left;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  color: white;
-  font-size: x-large;
-  font-weight: bold;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-  padding: 25%;
-  width: 75%;
-}
-
 nav {
   display: flex;
 }
