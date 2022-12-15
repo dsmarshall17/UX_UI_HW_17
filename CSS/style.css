@@ -6,10 +6,6 @@ body {
 background-color: #000000
 }
 
-.logo {
-
-}
-
 .header {
   padding: 30px;
   text-align: right;
@@ -33,6 +29,7 @@ background-color: #000000
 nav {
   display: flex;
 }
+
 nav a {
   display:inline-block; 
   width: 12%;
