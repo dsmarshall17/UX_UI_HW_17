@@ -92,7 +92,6 @@ border-bottom:3px solid #bbb;
 .button2 {
     position: absolute;
     top:10%;
-    box-shadow: 0px 0px 2px 2px rgb(0,0,0);
     border-radius: 5px; 
     min-height: 40px; 
     min-width: 100px;
@@ -104,54 +103,41 @@ border-bottom:3px solid #bbb;
 .Search {
   position: absolute; 
   border: radius 10px;
-  right: 1300px;
  }
 
 .calendar {
   position: absolute; 
   left: 1095px;
  }
-  
-.footer {
-  display:inline-block;
-  position:fixed;
-  top:100%;
-  width: 100%;
-  background-color: black; 
-  font-size: 18px;
-  color: white;
-  text-align: left;
- }
 
 </style>
 <body>
 
+  <div class="background-image"></div>
 
-<div class="background-image"></div>
+  <div class="background-text">
+    <h1 style="font-size: 72px">Protect The Hill Country</h1>
+    <div id="myDIV">
+   <p style="font-size: 28px">Stay up to date with the Violet Crown Trail, land conservation, events, the guest blogger series, and all things Hill Country Conservancy.</p>
+    <button type="button" class="button">Subscribe</button>
+    </div>
+  </div>
 
-<div class="background-text">
-  <h1 style="font-size: 72px">Protect The Hill Country</h1>
-  <div id="myDIV">
-  <p style="font-size: 28px">Stay up to date with the Violet Crown Trail, land conservation, events, the guest blogger series, and all things Hill Country Conservancy.</p>
-  <button type="button" class="button">Subscribe</button>
-</div>
-</div>
-
-<div class="calendar">
+  <div class="calendar">
   <img src="Images\Calendar_white.png" alt="calendar" width="50" height="45">
-</div>
+  </div>
 
-<div class="button2">
+  <div class="button2">
   <button type="button2" class="button2">Donate</button>
-</div>
+  </div>
 
-<div class="Search">
+  <div class="Search">
   <input type="text" placeholder="Search..">
  </div>
 
-<div class="logo">
+  <div class="logo">
   <img src="Images\HCC Logo.png" alt="logo" width="100" height="100">
-</div>
+  </div>
 
 <nav>
   <a class="active" href="#home">Home</a>
@@ -161,12 +147,6 @@ border-bottom:3px solid #bbb;
   <a href="#Land Projects">Land Projects</a>
   <a href="#For Landowners">For Landowners</a>
 </nav>
-
-<div class="footer">
-  <ul><a href="#Facebook">Facebook</a></ul>
-  <ul><a href="#Twitter">Twitter</a></ul>
-  <ul><a href="#Instagram">Instagram</a></ul>;
-</div>
 
 </body>
 </html>
